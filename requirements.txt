@@ -1,0 +1,8 @@
+huggingface_hub
+torch
+torchvision
+Pillow
+scikit-image
+numpy
+streamlit
+fastai
